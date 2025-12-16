@@ -1,5 +1,4 @@
 # bettina.extrapractice.space
-Bettina's house
 
 We bestow this house upon Bettina, philosopher of XP ~
 
