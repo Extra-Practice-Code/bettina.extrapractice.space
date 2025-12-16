@@ -11,7 +11,7 @@ We bestow this house upon Bettina, philosopher of XP ~
     /______\    
     |      |    
     |      |    
-    |______|      🍊
+    |______| 
 
-From,
+From,<br>
 xp
